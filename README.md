@@ -1,4 +1,4 @@
-# Make_it-_count
+# Make_it_count
 Puzzle fps game developed for the doki jam 2025.
 
 ## Description
