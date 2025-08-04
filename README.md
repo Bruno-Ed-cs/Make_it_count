@@ -7,12 +7,12 @@ Puzzle fps game developed for the doki jam 2025.
 
 ## Mechanics
 
-    -   Basic fps movement
-    -   Gun shooting
-    -   Grappling hook
-    -   Sliding
-    -   Chain reaction with the level and npcs
-    -   Ranking system based on chaos on the kills
+	-   Basic fps movement
+	-   Gun shooting
+	-   Grappling hook
+	-   Sliding
+	-   Chain reaction with the level and npcs
+	-   Ranking system based on chaos on the kills
 
 ## Gameplay loop
 
@@ -20,10 +20,10 @@ The player will choose a level, entering it they will get to the location of the
 
 ## Levels
 
-    -   Tutorial
-    -   Level 1 (open theme)
-    -   Level 2 (open theme)
-    -   Level 3 (open theme)
+	-   Tutorial
+	-   Level 1 (open theme)
+	-   Level 2 (open theme)
+	-   Level 3 (open theme)
 
 ## Artstyle
 
